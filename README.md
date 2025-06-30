@@ -1,6 +1,6 @@
 # 🚀 Project 5
 
-Elzero CSS Templete 1
+Elzero CSS Templete 2
 
 <br/>
 
