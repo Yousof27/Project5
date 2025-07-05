@@ -1,6 +1,6 @@
-# 🚀 Project 5
+# 🚀 Project 5 (Kaspar PSD)
 
-Elzero CSS Templete 2
+Rebuilt the Kaspar PSD design and Elzero Template 2 as a front-end challenge to sharpen my HTML and CSS layout skills. Focused on responsive design, clean structure, and pixel-perfect accuracy using modern semantic HTML and pure CSS.
 
 <br/>
 
